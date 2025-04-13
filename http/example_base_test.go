@@ -8,8 +8,8 @@ import (
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/logx"
 	"github.com/zeromicro/go-zero/rest"
-	xerrors "github.com/zeromicro/x/errors"
-	xhttp "github.com/zeromicro/x/http"
+	xerrors "github.com/LiuBo1975/x/errors"
+	xhttp "github.com/LiuBo1975/x/http"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )
