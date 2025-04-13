@@ -1,4 +1,4 @@
-module github.com/zeromicro/x
+module github.com/LiuBo1975/x
 
 go 1.24.2
 
