@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/zeromicro/go-zero/core/logx"
-	errorx "github.com/zeromicro/x/errors"
+	errorx "github.com/LiuBo1975/x/errors"
 	"github.com/zeromicro/x/test"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
